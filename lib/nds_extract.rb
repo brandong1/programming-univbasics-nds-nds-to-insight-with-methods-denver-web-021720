@@ -19,6 +19,7 @@ end
 # The return value should be like:
 #
 # { directorOne => allTheMoneyTheyMade, ... }
+
 def directors_totals(nds)
   director_index = 0 
   result = {}
