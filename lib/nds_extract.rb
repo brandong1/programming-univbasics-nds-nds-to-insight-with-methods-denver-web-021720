@@ -12,6 +12,12 @@ end
 #
 # { directorOne => allTheMoneyTheyMade, ... }
 def directors_totals(nds)
+  director_index = 0 
   result = {}
-  nil
+  
+  while director_index < nds.size do 
+    
+  end 
+  
+  result
 end
